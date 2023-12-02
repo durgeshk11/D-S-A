@@ -6,7 +6,7 @@
 import java.util.* ;
 import java.io.*; 
 import java.util.ArrayList;
-
+//i made changes
 class Solution {
 
     public static void solve(String str,ArrayList<String> ans,String sub,int i){
